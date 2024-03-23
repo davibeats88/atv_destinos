@@ -1,0 +1,23 @@
+@font-face {
+    font-family: Roboto;
+    src: url(Roboto-Black.ttf);
+}
+@font-face {
+    font-family: Fonte;
+    src: url(Fonte.ttf);
+}
+body {
+    background-color: rgb(54, 173, 94);
+}
+h2 {
+    font-family: Roboto;
+    font-size: 2.0em;
+    
+}
+h1 {
+    font-family: Fonte;
+    font-size: 2.8em;
+}
+a {
+    text-decoration: none;
+}
